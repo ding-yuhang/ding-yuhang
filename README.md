@@ -1,6 +1,10 @@
 - 👋 哈喽，我是书棠君。
+- Hello, I am Shutangjun.
 - 👀 我喜欢python和c语言，对后端、爬虫、数据分析、机器学习和深度学习感兴趣。
+- I like Python and C language, and am interested in backend, crawling, data analysis, machine learning, and deep learning.
 - 🌱 最近正在学习数据分析...
-- 💞️ 希望能找到一起学习人工智能的小伙伴，或者能够写前端的游戏开发者一起写游戏啊！
+- I am currently learning data analysis...
+- 💞️ 希望能找到一起学习人工智能的小伙伴，或者能够写前端的游戏开发者一起写游戏！
+- I hope to find friends who can learn artificial intelligence together, or game developers who can write front-end games together!
 - 📫 本人QQ:3141790082;微信:18120356449
-
+- My QQ: 3141790082; WeChat: 18120356449
